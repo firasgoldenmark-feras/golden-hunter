@@ -1,0 +1,27 @@
+{
+  "name": "Golden Hunter — نظام تعريف العملاء",
+  "short_name": "Golden Hunter",
+  "description": "نظام الأثر الذهبي لتسجيل العملاء الميدانيين",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07070d",
+  "theme_color": "#d4a017",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
